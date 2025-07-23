@@ -9,7 +9,11 @@ body {
   background-color: #E5E5E5;;
   overflow-x: hidden;
 }
-
+.product-info img{
+  margin:30px;
+  justify-content:center;
+}
+  
 header {
   display: flex;
   justify-content: space-between;
