@@ -21,21 +21,21 @@ header {
   position: sticky;
 }
 
-.logo {
+.logo-img {
   display: flex;
   align-items: center;
   font-size: 20px;
 }
 
-.logo img {
+.logo-img img {
   width: 50px;
   margin-right: 10px;
 }
 
-.logo strong {
+.logo-img strong {
   color: orangered;
 }
-.logo h1 span{
+.logo-img h1 span{
   color: orangered;
 }
 nav a {
@@ -50,7 +50,7 @@ nav a:hover {
 }
 
 
-.hero {
+.hero-section {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -71,21 +71,21 @@ nav a:hover {
   width:90%;
 }
 
-.product-info {
+.product-in {
   max-width: 500px;
 }
 
-.product-info h1 {
+.product-in h1 {
   font-size: 45px;
   color: #1e1e4f;
   line-height: 1.2;
 }
 
-.product-info h1 span {
+.product-in h1 span {
   color: orangered;
 }
 
-.product-info p {
+.product-in p {
   margin: 20px 0;
   color: #444;
   font-size: 16px;
